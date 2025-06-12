@@ -40,7 +40,7 @@ Interactive Tableau dashboard analyzing British Airways customer reviews to visu
 
 ```
 /Data # Raw/processed datasets
-/Exports # Dashboard exports (PDF, images)
+/Documents # Dashboard exports (PDF, images)
 README.md # This documentation
 ```
 
