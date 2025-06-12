@@ -8,6 +8,8 @@ Interactive Tableau dashboard analyzing British Airways customer reviews to visu
   <img src="https://github.com/user-attachments/assets/d40fbd29-5da8-4289-8db0-328b2e2828e7" alt="British Airways Customer Experience Dashboard" style="max-width:100%; height:auto;">
 </div>
 
+[**Dashboard Link**](https://public.tableau.com/app/profile/abdul.rafay.mohammed2129/viz/BritishAirwaysKPIDashboard/Dashboard1)
+
 ## 🔍 Key Insights  
 - **Top Performing Aircraft**: A380 scored highest in seat comfort (3.4/5)  
 - **Areas Needing Improvement**: Food/Beverages (2.3/5) and Value for Money (2.8/5)  
